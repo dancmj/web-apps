@@ -1,4 +1,4 @@
-Life Counter
+[Life Counter](http://dancmj.github.io/apps/lifecounter/app.html)
 ============
 So one morning I was playing Magic the Gathering with my cousin and we were looking for a life counter app on our phones and well, we struggled for a little while when I said to myself "Hey why don't I make one?". 
 
