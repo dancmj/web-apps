@@ -42,7 +42,9 @@ body{
   position: relative;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%)
+  -ms-transform: translate(-50%,-50%); /* IE 9 */
+  -webkit-transform: translate(-50%,-50%); /* Chrome, Safari, Opera */
+  transform: translate(-50%,-50%);
 }
 .btn {
   width: 50%;
