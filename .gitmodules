@@ -3,4 +3,4 @@
 	url = git@github.com:dancmj/graph-visualizer.git
 [submodule "hackernation"]
 	path = hackernation
-	url = ./hackernation
+	url = git@github.com:dancmj/hackernation.git
