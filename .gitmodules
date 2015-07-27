@@ -1,6 +1,6 @@
-[submodule "graph-visualizer"]
-	path = graph-visualizer
-	url = git@github.com:dancmj/graph-visualizer.git
+[submodule "g.raffe"]
+	path = g.raffe
+	url = git@github.com:dancmj/g.raffe.git
 [submodule "hackernation"]
 	path = hackernation
 	url = git@github.com:dancmj/hackernation.git
