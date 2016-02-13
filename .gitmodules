@@ -4,3 +4,6 @@
 [submodule "hackernation"]
 	path = hackernation
 	url = git@github.com:dancmj/hackernation.git
+[submodule "ampliconer"]
+	path = amplicons
+	url = git@github.com:dancmj/ampliconer.git
